@@ -1,5 +1,3 @@
-## Timur Demin
-
 Your generic Go coder and uni student.
 
 I have a [home page](https://tdem.in). It is a much better summary of what I do.
