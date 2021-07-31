@@ -25,13 +25,13 @@ Some of my older projects reside on [my own code hosting](https://git.tdem.in/td
 [amber]: https://git.tdem.in/tdemin/amber
 [amber_web]: https://git.tdem.in/tdemin/amber_web
 [amber_cli]: https://git.tdem.in/tdemin/amber_cli
-[syg_go]: https://git.tdem.in/tdemin/syg_go
+[syg_go]: https://github.com/tdemin/syg_go
 [sgaur]: https://aur.archlinux.org/packages/syg_go/
 [scarlet_export]: https://git.tdem.in/tdemin/scarlet_export
 [backup]: https://git.tdem.in/tdemin/backup
 [emdl]: https://aur.archlinux.org/packages/emdl/
 [ygg]: https://yggdrasil-network.github.io
-[gmnhg]: https://git.tdem.in/tdemin/gmnhg
+[gmnhg]: https://github.com/tdemin/gmnhg
 [hugo]: https://gohugo.io
 [gemini]: https://gemini.circumlunar.space/
 [airsonic-advanced]: https://aur.archlinux.org/packages/airsonic-advanced-bin/
