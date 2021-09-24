@@ -1,4 +1,4 @@
-Your generic Go coder and uni student.
+Your generic Go coder and uni student. Available for hire in Russia; download my CV [here](https://github.com/tdemin/cv/releases/tag/latest).
 
 I have a [home page](https://tdem.in). It is a much better summary of what I do.
 
