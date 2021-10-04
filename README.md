@@ -1,13 +1,16 @@
-Your generic Go coder and uni student. Available for hire in Russia; download my CV [here](https://github.com/tdemin/cv/releases/tag/latest).
+Your generic Go coder and uni student.
 
-I have a [home page](https://tdem.in). It is a much better summary of what I do.
+[![Homepage: https://tdem.in](https://img.shields.io/badge/Homepage-https://tdem.in-blue)](https://tdem.in)
+[![CV](https://img.shields.io/badge/CV-Russian-orange)](https://github.com/tdemin/cv/releases/tag/latest)
 
 My code:
 
+* [gmnhg][gmnhg], a tool that converts your [Hugo][hugo] site to [Gemini][gemini]
+* [md2gmn][gmnhg], a tool that converts Markdown to Gemtext
+* [Find Latest Tag][flt], a GitHub Action to find latest tag of any Git repo on the internet
 * [akm][akm], an age(1) key manager and wrapper
 * [syg_go][syg_go], an Yggdrasil address miner written in Go ([AUR package][sgaur])
 * [i3-gaps-desktop][i3-gd], a fork of i3 window manager that supports desktop managers ([AUR package][i3-gdaur])
-* [gmnhg][gmnhg], a tool that converts your [Hugo][hugo] site to [Gemini][gemini]
 * [scarlet_export][scarlet_export], a program to export notes from Scarlet Notes
 * [backup][backup], a simple backup script
 * Project Amber, a task list app with variable task nesting ([live demo](https://amber.h.tdem.in)):
@@ -19,8 +22,15 @@ I maintain a number of packages on AUR, the Arch Linux user repository:
 
 * [airsonic-advanced][airsonic-advanced], the self-hostable music streaming software
 
+I maintain the following Docker images:
+
+* `ghcr.io/tdemin/docker-satellite`, nightly builds of the [Satellite][satellite] Gemini server
+* `ghcr.io/tdemin/gmnhg`, builds of `gmnhg` along with `md2gmn` for use in CI pipelines
+
 Some of my older projects reside on [my own code hosting](https://git.tdem.in/tdemin) rather than GitHub.
 
+[satellite]: https://git.sr.ht/~gsthnz/satellite
+[flt]: https://github.com/marketplace/actions/find-latest-tag-of-git-repository
 [akm]: https://github.com/tdemin/akm
 [amber]: https://git.tdem.in/tdemin/amber
 [amber_web]: https://git.tdem.in/tdemin/amber_web
@@ -37,3 +47,4 @@ Some of my older projects reside on [my own code hosting](https://git.tdem.in/td
 [airsonic-advanced]: https://aur.archlinux.org/packages/airsonic-advanced-bin/
 [i3-gd]: https://git.tdem.in/tdemin/i3
 [i3-gdaur]: https://aur.archlinux.org/packages/i3-gaps-desktop/
+
