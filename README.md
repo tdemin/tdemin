@@ -11,6 +11,7 @@ My code:
 * [akm][akm], an age(1) key manager and wrapper
 * [syg_go][syg_go], an Yggdrasil address miner written in Go ([AUR package][sgaur])
 * [i3-gaps-desktop][i3-gd], a fork of i3 window manager that supports desktop managers ([AUR package][i3-gdaur])
+* [opmodbus][opmodbus], an optimizing Modbus master library
 * [scarlet_export][scarlet_export], a program to export notes from Scarlet Notes
 * [backup][backup], a simple backup script
 * Project Amber, a task list app with variable task nesting ([live demo](https://amber.h.tdem.in)):
@@ -30,6 +31,7 @@ I maintain the following Docker images:
 Some of my older projects reside on [my own code hosting](https://git.tdem.in/tdemin) rather than GitHub.
 
 [satellite]: https://git.sr.ht/~gsthnz/satellite
+[opmodbus]: https://github.com/tdemin/opmodbus
 [flt]: https://github.com/marketplace/actions/find-latest-tag-of-git-repository
 [akm]: https://github.com/tdemin/akm
 [amber]: https://git.tdem.in/tdemin/amber
