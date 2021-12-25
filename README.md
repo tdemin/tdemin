@@ -1,5 +1,3 @@
-Your generic Go coder and uni student.
-
 [![Homepage: https://tdem.in](https://img.shields.io/badge/Homepage-https://tdem.in-blue)](https://tdem.in)
 [![CV](https://img.shields.io/badge/CV-Russian-orange)](https://github.com/tdemin/cv/releases/tag/latest)
 
