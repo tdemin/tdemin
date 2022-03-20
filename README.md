@@ -11,7 +11,7 @@ My code:
 * [opmodbus][opmodbus], an optimizing Modbus master library
 * [scarlet_export][scarlet_export], a program to export notes from Scarlet Notes
 * [backup][backup], a simple backup script
-* Project Amber, a task list app with variable task nesting ([live demo](https://amber.h.tdem.in)):
+* Project Amber, a task list app with variable task nesting:
     + [Amber][amber], the API server in Python
     + [Amber Web][amber_web], the web client built with TypeScript and React
     + [Amber CLI][amber_cli], the CLI client written in Go, currently unfinished
