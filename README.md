@@ -5,17 +5,17 @@
 
 My code:
 
-* [gmnhg][gmnhg], a tool that converts your [Hugo][hugo] site to [Gemini][gemini]
-* [md2gmn][gmnhg], a tool that converts Markdown to Gemtext
+* [gmnhg][gmnhg], a Go tool that converts your [Hugo][hugo] site to [Gemini][gemini]
+* [md2gmn][gmnhg], a Go tool that converts Markdown to Gemtext
 * [Find Latest Tag][flt], a GitHub Action to find latest tag of any Git repo on the internet
-* [akm][akm], an [age(1)][age] key manager and wrapper
+* [akm][akm], an [age(1)][age] key manager and wrapper in bash
 
 I maintain the following Docker images:
 
 * [`ghcr.io/tdemin/docker-satellite`][docker-satellite], nightly builds of the [Satellite][satellite] Gemini server
 * [`ghcr.io/tdemin/gmnhg`][gmnhg], builds of `gmnhg` along with `md2gmn` for use in CI pipelines
 
-I used to maintain a number of packages on AUR, the Arch Linux user repository, as [@tdemin][aur-tdemin]:
+I sometimes contribute to [nixpkgs][nixpkgs]. I used to maintain a number of packages on AUR, the Arch Linux user repository, as [@tdemin][aur-tdemin]:
 
 * [airsonic-advanced][airsonic-advanced], the self-hostable music streaming software
 * ...and packages for self-maintained software mentioned above/below, see respective links
@@ -33,6 +33,7 @@ Historical code (some of my older projects reside on [my own code hosting](https
     + [Amber Web][amber_web], the web client built with TypeScript and React
     + [Amber CLI][amber_cli], the CLI client written in Go, unfinished
 
+[nixpkgs]: https://github.com/NixOS/nixpkgs/commits?author=tdemin
 [age]: https://age-encryption.org/
 [aur-tdemin]: https://aur.archlinux.org/account/tdemin
 [librespot-builds]: https://github.com/tdemin/librespot-builds
@@ -57,4 +58,3 @@ Historical code (some of my older projects reside on [my own code hosting](https
 [airsonic-advanced]: https://aur.archlinux.org/packages/airsonic-advanced-bin/
 [i3-gd]: https://git.tdem.in/tdemin/i3
 [i3-gdaur]: https://aur.archlinux.org/packages/i3-gaps-desktop/
-
