@@ -8,7 +8,7 @@ My code:
 * [gmnhg][gmnhg], a tool that converts your [Hugo][hugo] site to [Gemini][gemini]
 * [md2gmn][gmnhg], a tool that converts Markdown to Gemtext
 * [Find Latest Tag][flt], a GitHub Action to find latest tag of any Git repo on the internet
-* [akm][akm], an age(1) key manager and wrapper
+* [akm][akm], an [age(1)][age] key manager and wrapper
 
 I maintain the following Docker images:
 
@@ -33,6 +33,7 @@ Historical code (some of my older projects reside on [my own code hosting](https
     + [Amber Web][amber_web], the web client built with TypeScript and React
     + [Amber CLI][amber_cli], the CLI client written in Go, unfinished
 
+[age]: https://age-encryption.org/
 [aur-tdemin]: https://aur.archlinux.org/account/tdemin
 [librespot-builds]: https://github.com/tdemin/librespot-builds
 [docker-satellite]: https://github.com/tdemin/docker-satellite
