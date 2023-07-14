@@ -1,7 +1,10 @@
 [![homepage: https://tdem.in](https://img.shields.io/badge/homepage-https://tdem.in-blue)](https://tdem.in)
 [![homepage source](https://img.shields.io/badge/homepage-built_with_Hugo-green)](https://github.com/tdemin/tdem.in)
 [![dotfiles: home-manager](https://img.shields.io/badge/dotfiles-home--manager-red)](https://github.com/tdemin/hm)
-[![CV: on GitHub](https://img.shields.io/badge/CV-on_GitHub-orange)](https://github.com/tdemin/cv/releases/tag/latest)
+[![CV: on GitHub](https://img.shields.io/badge/CV-on_GitHub-orange)][cv]
+[![available: for hire](https://img.shields.io/badge/available-for_hire-cyan)][cv]
+
+[cv]: https://github.com/tdemin/cv/releases/tag/latest
 
 My code:
 
