@@ -1,6 +1,7 @@
 [![homepage: https://tdem.in](https://img.shields.io/badge/homepage-https://tdem.in-blue)](https://tdem.in)
-[![homepage source](https://img.shields.io/badge/homepage-built_with_Hugo-green)](https://github.com/tdemin/tdem.in)
-[![dotfiles: home-manager](https://img.shields.io/badge/dotfiles-home--manager-red)](https://github.com/tdemin/hm)
+[![homepage source](https://img.shields.io/badge/homepage-built_with_Hugo-green?logo=hugo&logoColor=white)](https://github.com/tdemin/tdem.in)
+[![dotfiles: home-manager](https://img.shields.io/badge/dotfiles-home--manager-red?logo=nixos&logoColor=white)](https://github.com/tdemin/hm)
+[![servers: managed with code](https://img.shields.io/badge/infrastructure-managed%20as%20code-red?logo=ansible)](https://github.com/tdemin/infra)
 [![CV: on GitHub](https://img.shields.io/badge/CV-on_GitHub-orange)][cv]
 
 [cv]: https://github.com/tdemin/cv/releases/tag/latest
