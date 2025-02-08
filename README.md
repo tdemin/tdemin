@@ -23,7 +23,7 @@ I sometimes contribute to [nixpkgs][nixpkgs]. I used to maintain a number of pac
 * [airsonic-advanced][airsonic-advanced], the self-hostable music streaming software
 * ...and packages for self-maintained software mentioned above/below, see respective links
 
-A listing of my historical projects (mostly unmaintained) is available on my [website][projects].
+A [listing of my historical projects][projects] (mostly unmaintained) is available on my website.
 
 [projects]: https://tdem.in/projects/
 
